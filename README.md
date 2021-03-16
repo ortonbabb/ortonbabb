@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ortonbabb
-- 👀 I’m interested in automating tedious tasks with software.
+- 👀 I’m interested in automating tasks with software.
 - 🌱 I’m currently learning web development.
 - 📫 ortonbabb@gmail.com
 
