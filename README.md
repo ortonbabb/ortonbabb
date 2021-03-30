@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ortonbabb
-- 👀 I’m interested in automating tasks with software.
-- 🌱 I’m currently learning web development.
-- 📫 ortonbabb@gmail.com
+- I’m interested in automating tasks with software.
+- I’m currently learning web development.
+- ortonbabb@gmail.com
 
 <!---
 ortonbabb/ortonbabb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
