@@ -1,5 +1,5 @@
 - Hi, I’m @ortonbabb
-- I’m interested in automating tasks with software.
+- I’m interested in telling stories with data and automating tasks with software.
 - ortonbabb@gmail.com
 
 <!---
